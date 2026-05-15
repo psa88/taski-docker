@@ -10,7 +10,6 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['taskipro.hopto.org', '81.26.186.32', 'localhost', '127.0.0.1']
 
-
 # Application definition
 
 INSTALLED_APPS = [
